@@ -1,0 +1,6 @@
+crewai
+yfinance
+newsapi-python
+pandas
+matplotlib
+llama-index
